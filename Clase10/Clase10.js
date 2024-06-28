@@ -1,5 +1,5 @@
 //ejercicio 1 : calcular la estacion del año
-/*
+
 let mes = 4;
 let estacion; // undefined
 if (mes === 1 || mes === 2 || mes === 12) {
@@ -17,7 +17,7 @@ else if (mes === 9 || mes === 10 || mes === 11) {
 else {
     estacion = "valor incorrecto";
 }
-console.log("El valor corresponde a la estacion de :" + estacion);*/
+console.log("El valor corresponde a la estacion de :" + estacion);
 
 //ejercicio 2 : hora del dia
 /* 
@@ -28,7 +28,7 @@ de 20 a 23 nos saluda : good night
 trabajemos con 24 horas
 */
 
-/*
+
 let horaDia = 9;
 let mensaje;
 if (horaDia >= 6 && horaDia <= 11) {
@@ -46,7 +46,8 @@ else if (horaDia >= 20 && horaDia <= 23) {
 else {
     mensaje = "Valor incorrecto";
 }
-console.log(mensaje);*/
+console.log(mensaje);
+
 
 //estructura switch (la sintaxis es igual a java)
 
